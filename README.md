@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brennan Duck</h1>
-<h3 align="center">Aspiring full stack dev living in Tennessee</h3>
+a<h1 align="center">Hi 👋, I'm Brennan Duck</h1>
+<h3 align="center">I'm an aspiring full stack dev living in Tennessee</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
